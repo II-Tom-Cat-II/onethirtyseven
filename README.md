@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onethirtyseven
 - 👀 I’m interested in python, rasberrypi, arduino, c++
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python & RasberryPi
+- 💞️ I’m looking to collaborate on Python & RasberryPi projects 
 - 📫 How to reach me : changhsincheng.twn@gmail.com
 
 <!---
